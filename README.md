@@ -1,17 +1,50 @@
-# 🧸 Kawaii OOP Calculator
+# 🌸 Hi, I'm Fiza Akhtar! A 3rd-semester AI student and aspiring learner 🚀✨
 
-> A cute little calculator built with Object-Oriented JavaScript 🎀
+🖥️ I spent my first semester mastering the basics of programming in C++ and Python, and also HTML and CSS
 
-![Made with love](https://img.shields.io/badge/made%20with-%E2%9D%A4-ff69b4)
-![JavaScript](https://img.shields.io/badge/JavaScript-OOP-c084fc)
-![Status](https://img.shields.io/badge/status-adorable-ff85c2)
+🌀 I've since dived into Java and OOP, building logic-heavy applications
 
----
+💬 I recently built a Chat Messenger project to practice real-world coding and UI
 
-A pink & pastel interactive calculator with floating plushies 🐰🧸🐱, click sound effects 🎵, and a confetti burst 🎊 every time you hit equals!
+📊 Currently, I'm deep-diving into Data Structures & Algorithms (DSA) to write better code
 
-**Features:** basic math · power · square root · modulo · keyboard support · Web Audio clicks
+✏️ I enjoy breaking down complex problems and turning them into clean, efficient solutions 🌟
 
 ---
 
-*leave a ⭐ if it made you smile!* 🌸
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com)
+
+---
+
+## 🖥️ Tech Stack:
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 🎮 Projects:
+
+- 🍔 [Burger Stack Game](https://fizaakhtar805-code.github.io/burger-stack-game)
+- 💬 [Simple Chat Messenger](https://fizaakhtar805-code.github.io/simple-chat-messenger)
+- 🧮 [Kawaii OOP Calculator](https://fizaakhtar805-code.github.io/oop-calculator)
+
+---
+
+## 📊 GitHub Stats:
+
+![Fiza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fizaakhtar805-code&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaakhtar805-code&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+*✨ Thanks for visiting my profile! Happy coding! 🎀*
